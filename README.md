@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gouthami32/codechef/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Gouthami32/codechef/tree/master/0027-remove-element) |
 | [0917-reverse-only-letters](https://github.com/Gouthami32/codechef/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gouthami32/codechef/tree/master/0005-longest-palindromic-substring) |
 | [0917-reverse-only-letters](https://github.com/Gouthami32/codechef/tree/master/0917-reverse-only-letters) |
 ## Stack
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gouthami32/codechef/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gouthami32/codechef/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
