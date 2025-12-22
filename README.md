@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gouthami32/codechef/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gouthami32/codechef/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gouthami32/codechef/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Gouthami32/codechef/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gouthami32/codechef/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Gouthami32/codechef/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gouthami32/codechef/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gouthami32/codechef/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gouthami32/codechef/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gouthami32/codechef/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Gouthami32/codechef/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gouthami32/codechef/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Gouthami32/codechef/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gouthami32/codechef/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -72,5 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Gouthami32/codechef/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gouthami32/codechef/tree/master/0700-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Gouthami32/codechef/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
