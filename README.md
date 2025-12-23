@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Gouthami32/codechef/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouthami32/codechef/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Gouthami32/codechef/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Gouthami32/codechef/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gouthami32/codechef/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Gouthami32/codechef/tree/master/0367-valid-perfect-square) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Gouthami32/codechef/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
